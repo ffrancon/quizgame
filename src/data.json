@@ -1,0 +1,221 @@
+[
+  {
+    "theme": "animaux",
+    "title": "Règne animal",
+    "img": "../../public/img/animals.jpg",
+    "quiz": [
+      {
+        "title": "Considéré comme l'oiseau le plus rapide au monde, le faucon pélerin est capable d'atteindre des vitesses vertigineuses en piqué. Quelle est la vitesse la plus élevée jamais enregistrée pour ce prédateur ?",
+        "quote": "Le pilote et fauconnier américain Ken Franklin a enregistré en 2005 une vitesse de 389km/h atteinte par son faucon \"Frightful\". Franklin sauta d'un avion accompagné de Frightful et se servit d'un leurre pour simuler une proie et amener le faucon à plonger à tout vitesse à ses côtés.",
+        "answers": [
+          {
+            "label": "299km/h",
+            "id": "answer1",
+            "value": false
+          },
+          {
+            "label": "329km/h",
+            "id": "answer2",
+            "value": false
+          },
+          {
+            "label": "359km/h",
+            "id": "answer3",
+            "value": false
+          }
+          ,
+          {
+            "label": "389km/h",
+            "id": "answer4",
+            "value": true
+          }
+        ]
+      },
+      {
+        "title": "Vrai ou Faux ? Afin de supporter de très fortes chaleurs et de prévenir la déshydratation, le chameau stocke dans ses bosses l'eau nécessaire à sa survie durant de longues marches sans boire.",
+        "quote": "Contrairement à la croyance populaire, les bosses du chameau ne contiennent pas de liquide mais des tissus graisseux faisant office de réserves d'énergie pour les long périples. En métabolisant ces graisses, le chameau produit de l'eau en plus des nutriments nécessaires à sa survie.",
+        "answers": [
+          {
+            "label": "Vrai",
+            "id": "answer1",
+            "value": false
+          },
+          {
+            "label": "Faux",
+            "id": "answer2",
+            "value": true
+          }
+        ]
+      },
+      {
+        "title": "Parmi ces animaux, lequel possède la machoire la plus puissante ?",
+        "quote": "Le crocodile marin possède la machoire la plus puissante au monde avec une pression moyenne de 1113kg/cm². A titre de comparaison l'orque atteint les ~1000kg/cm² tandis que la hyène tâchetée et l'hippopotame atteignent les ~950kg/cm².",
+        "answers": [
+          {
+            "label": "L'orque",
+            "id": "answer1",
+            "value": false
+          },
+          {
+            "label": "Le crocodile marin",
+            "id": "answer2",
+            "value": true
+          },
+          {
+            "label": "La hyène tâchetée",
+            "id": "answer3",
+            "value": false
+          },
+          {
+            "label": "L'hippopotame",
+            "id": "answer4",
+            "value": false
+          }
+        ]
+      },
+      {
+        "title": "Les tardigrades sont des animaux invertébrés pouvant mesurer jusqu'à 1,5mm. En dépit de leur taille, ils possèdent d'incroyables caractéristiques. Parmi les propositions suivantes, laquelle est fausse ?",
+        "quote": "Malgré leur impressionante résistance à des conditions apocalyptiques, les tardigrades survivent à des températures allant jusqu'à \"seulement\" 150°C pendant plusieurs minutes. Ils font cependant preuve d'une exceptionnelle résistance au froid, pouvant survivre plusieurs jours à des températures proches du zéro absolu (−272,8°C).",
+        "answers": [
+          {
+            "label": "Ils peuvent survivre à des températures extrêmes allant jusqu'à plus de 1000°C",
+            "id": "answer1",
+            "value": true
+          },
+          {
+            "label": "Ils peuvent survivre dans le vide spatial",
+            "id": "answer2",
+            "value": false
+          },
+          {
+            "label": "Ils peuvent endurer un niveau de radiations 1000 fois supérieur à ce que peut endurer un être humain",
+            "id": "answer3",
+            "value": false
+          },
+          {
+            "label": "Ils peuvent survivre sous de très hautes pressions allant jusqu'à 1200 atmosphères",
+            "id": "answer4",
+            "value": false
+          }
+        ]
+      },
+      {
+        "title": "Vrai ou Faux ? Le paresseux peut mettre jusqu'à 30 jours pour digérer sa nourriture.",
+        "quote": "L'alimentation du paresseux est constituée exclusivement de feuillages. Malgré la faible valeur nutritive de ce type d'aliments, son estomac lambine quand il s'agit d'assimiler leurs nutriments (0,2 à 13,4 % du contenu stomacal digéré chaque jour). Une simple feuille peut donc mettre jusqu'à un mois pour traverser le tube digestif du paresseux.",
+        "answers": [
+          {
+            "label": "Vrai",
+            "id": "answer1",
+            "value": true
+          },
+          {
+            "label": "Faux",
+            "id": "answer2",
+            "value": false
+          }
+        ]
+      },
+      {
+        "title": "Quelle partie du monde animal est l'objet de l'entomologie ?",
+        "quote": "L'entomologie est la branche de la zoologie qui étudie les insectes. Avec plus d'1,3 millions d'espèces, les insectes constituent une des biodiversités les plus importantes du monde animal mais également une des plus fragilisées par l'activité humaine.",
+        "answers": [
+          {
+            "label": "Les primates",
+            "id": "answer1",
+            "value": false
+          },
+          {
+            "label": "Les oiseaux",
+            "id": "answer2",
+            "value": false
+          },
+          {
+            "label": "Les insectes",
+            "id": "answer3",
+            "value": true
+          },
+          {
+            "label": "Les reptiles",
+            "id": "answer4",
+            "value": false
+          }
+        ]
+      },
+      {
+        "title": "Comme le font entendre les mythes de vampires auxquels elles sont généralement associées, les chauves-souris peuvent se nourrir de sang humain.",
+        "quote": "La sous-famille de chauves-souris Desmodontinae (communément appelées vampires) compte trois espèces qui ont la particularité de se nourrir de sang, provenant de mammifères ou d'oiseaux selon les espèces. Parmi elles, la Diphylla ecaudata ou Vampire à pattes velues a dû changer son alimentation au fil des âges passant des oiseaux aux mammifères dont les êtres humains.",
+        "answers": [
+          {
+            "label": "Vrai",
+            "id": "answer1",
+            "value": true
+          },
+          {
+            "label": "Faux",
+            "id": "answer2",
+            "value": false
+          }
+        ]
+      },
+      {
+        "title": "En 2014 dans la réserve naturelle sud-africaine Londolozi Game Reserve, un animal a tenu tête face à une meute de 17 lions et en est sorti indemne. Quel était cet animal ?",
+        "quote": "Le porc épic d'Afrique possède des pics pouvant dépasser les 30cm et sait s'en servir contre ses agresseurs. Cet animal n'est pas la proie favorite du lion, ce dernier peut cependant s'attaquer à lui en cas de pénurie de proies. Un jeune lion inexpérimenté peut sortir de ce genre d'affrontement gravement blessé, voire y perdre la vie.",
+        "answers": [
+          {
+            "label": "Un éléphant",
+            "id": "answer1",
+            "value": false
+          },
+          {
+            "label": "Un porc-épic",
+            "id": "answer2",
+            "value": true
+          },
+          {
+            "label": "Un zèbre",
+            "id": "answer3",
+            "value": false
+          },
+          {
+            "label": "Un lynx",
+            "id": "answer4",
+            "value": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "theme": "musique",
+    "title": "Musique",
+    "quiz": [
+      {
+        "title": "Quel est l'album le plus vendu de tous les temps ?",
+        "quote": "Pas celui auquel tu pensais",
+        "answers": [
+          {
+            "label": "A",
+            "id": "answer1",
+            "value": false
+          },
+          {
+            "label": "B",
+            "id": "answer2",
+            "value": false
+          },
+          {
+            "label": "C",
+            "id": "answer3",
+            "value": false
+          }
+          ,
+          {
+            "label": "D",
+            "id": "answer4",
+            "value": true
+          }
+        ]
+      }
+    ]
+  }
+]
